@@ -255,6 +255,7 @@ footer a {
   aside div {
     width: 32.5%;
     display: inline-block;
+    vertical-align: top;
   }
   footer {
     padding-inline: 20%;
