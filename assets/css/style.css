@@ -249,13 +249,11 @@ footer a {
   aside h2 {
     font-size: 3rem;
   }
-  aside {
-    text-align: center;
-  }
   aside div {
-    width: 32.5%;
+    width: 33.33%;
     display: inline-block;
     vertical-align: top;
+    margin-right: -6px;
   }
   footer {
     padding-inline: 20%;
